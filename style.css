@@ -1,0 +1,30 @@
+* {
+    margin: 0 auto
+}
+
+/*--1--*/
+.btn {
+    width: 100px;
+    height: 40px;
+    border: 2px solid rgb(170, 250, 0);
+    cursor: pointer;
+}
+
+/*--2--*/
+.counters {
+    margin: 50px ;
+    font-family: "Roboto Medium", sans-serif;
+}
+
+
+.input {
+    border: 2px solid rgb(170, 250, 0);
+}
+
+.minus {
+    border: 2px solid rgb(170, 250, 0);
+}
+
+.plus {
+    border: 2px solid rgb(170, 250, 0);
+}
